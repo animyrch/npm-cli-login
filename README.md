@@ -1,4 +1,4 @@
-# @kenan/npm-cli-login
+# animyrch-npm-cli-login
 
 Fork of [npm-cli-login](https://github.com/postmanlabs/npm-cli-login).
 
@@ -8,7 +8,7 @@ Fork of [npm-cli-login](https://github.com/postmanlabs/npm-cli-login).
 ## Install
 
 ```bash
-$ npm install @kenan/npm-cli-login
+$ npm install animyrch-npm-cli-login
 ```
 
 ## Usage
@@ -67,6 +67,6 @@ To use the package programmatically, just require the module and pass in your
 npm auth details as arguments:
 
 ```javascript
-const npmLogin = require('@kenan/npm-cli-login');
+const npmLogin = require('animyrch-npm-cli-login');
 npmLogin(username, password, email [, registry, scope, quotes, configPath]);
 ```

@@ -1,10 +1,10 @@
 {
-  "name": "@kenan/npm-cli-login",
+  "name": "animyrch-npm-cli-login",
   "version": "3.0.2",
   "description": "Fork of npm-cli-login",
   "author": "Postman Team <help@getpostman.com>",
   "license": "Apache-2.0",
-  "repository": "github:kenany/npm-cli-login",
+  "repository": "github:animyrch/npm-cli-login",
   "publishConfig": {
     "access": "public"
   },
