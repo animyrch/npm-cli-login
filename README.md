@@ -8,7 +8,7 @@ Fork of [npm-cli-login](https://github.com/postmanlabs/npm-cli-login).
 ## Install
 
 ```bash
-$ npm install animyrch-npm-cli-login
+$ npm install -g animyrch-npm-cli-login
 ```
 
 ## Usage
